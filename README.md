@@ -48,6 +48,6 @@ or to serve from multiple folders
 
 ### proxy
 
-Optionally proxy a server from the /api endpoint
+Optionally proxy a server from the /api endpoint maps localhost:3000/api => otherserver:otherport/api
 
 `lite-server --proxy http://something.local:8000/`
