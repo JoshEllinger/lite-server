@@ -6,7 +6,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnpapa/lite-server.git"
+    "url": "git+https://github.com/joshellinger/lite-server.git"
   },
   "keywords": [],
   "author": "John Papa <john@johnpapa.net> (http://johnpapa.net/)",
@@ -19,6 +19,7 @@
     "browser-sync": "^2.9.11",
     "connect-history-api-fallback": "^1.1.0",
     "connect-logger": "0.0.1",
+    "http-proxy-middleware": "^0.9.0",
     "yargs": "^3.27.0"
   },
   "devDependencies": {}
