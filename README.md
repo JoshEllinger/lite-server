@@ -48,6 +48,6 @@ or to serve from multiple folders
 
 ### proxy
 
-A server to proxy from the api endpoint
+Optionally proxy a server from the /api endpoint
 
 `lite-server --proxy http://something.local:8000/`
