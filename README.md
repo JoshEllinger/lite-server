@@ -46,4 +46,8 @@ or to serve from multiple folders
 
 `lite-server --baseDir ./src --baseDir ./`
 
+### proxy
 
+A server to proxy from the api endpoint
+
+`lite-server --proxy http://something.local/`
